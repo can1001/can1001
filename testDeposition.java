@@ -73,6 +73,14 @@ class TestDeposition {
 
     }
 
+    /**
+     * 1. 10진수를 2진수로 변환한다.
+     * 2. 2진수를 앞에서 부터 2자리씩 나눈다.
+     * 3. 2진수 2자리 배열을 10진수로 변환하고, 10진수를 알파벳과 맵핑한다.
+     * 4. 4의 배수일때 문제를 해결한다
+     * @see http://codingdojang.com/scode/458?langby=java
+     * @see http://www.mjlee.pe.kr/xe/board/219
+     */
     public static String toDeposition(int value, int i){
 
         String returnString = "";
