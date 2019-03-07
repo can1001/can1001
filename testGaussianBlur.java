@@ -17,7 +17,10 @@ import javax.imageio.ImageIO;
 class TestGaussianBlur {
 
 
-
+	/**
+	 * 
+	 * @see https://github.com/keepworking/java-Image-Blur
+	 */
 	public static void main(String[] args) {
 
 		// TODO Auto-generated method stub
