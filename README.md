@@ -3,4 +3,4 @@ This page is wandosea's github page
 
 http://www.wandosea.kr
 
-http://seabox.co.kr
+http://www.seabox.co.kr
