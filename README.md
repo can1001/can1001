@@ -17,6 +17,7 @@ wandosea는 wando seaweed love 의 줄임말로 [완도김사랑]이다.
 
 https://m.mannabox.co.kr
 
+https://m.mannago.ai/main
 
 # can1001
 This page is can1001's github page
