@@ -10,7 +10,13 @@
 wandosea는 wando seaweed love 의 줄임말로 [완도김사랑]이다. 
 
 # 완도김사랑은 무엇인가?
-완도김사랑은 내가 처음 이커머스를 하기 위해 만든 나만의 브랜드이다.
+완도김사랑은 내가 처음 이커머스(e-commerce)를 하기 위해 만든 나만의 브랜드이다.
+
+# 이커머스(e-commerce) 경험은 있는가?
+신선식품 정기배송 서비스인 만나박스를 개발하고 운영했다.
+
+m.mannabox.co.kr
+
 
 # can1001
 This page is can1001's github page
