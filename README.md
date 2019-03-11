@@ -15,7 +15,7 @@ wandosea는 wando seaweed love 의 줄임말로 [완도김사랑]이다.
 # 이커머스(e-commerce) 경험은 있는가?
 신선식품 정기배송 서비스인 만나박스를 개발하고 운영했다.
 
-m.mannabox.co.kr
+https://m.mannabox.co.kr
 
 
 # can1001
