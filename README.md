@@ -19,6 +19,9 @@ https://m.mannabox.co.kr
 
 https://m.mannago.ai/main
 
+# 신선식품 정기배송 서비스는 무엇인가?
+신선식품 정기배송 
+
 # can1001
 This page is can1001's github page
 
